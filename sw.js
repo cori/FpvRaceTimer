@@ -1,6 +1,6 @@
 // FPV Pro Race Timer - offline PWA service worker
 // Bump the version when assets change to invalidate the cache.
-const CACHE = 'fpv-race-timer-v1';
+const CACHE = 'fpv-race-timer-v2';
 const ASSETS = [
   './',
   './index.html',
